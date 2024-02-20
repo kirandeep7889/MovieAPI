@@ -445,8 +445,16 @@ width: fit-content;
 .favoriteMoviesContainer {
   margin-top: 40px;
   width: 50%;
+  margin: 10px;
+}
+.app{
+  padding:0;
 }
 
+.container{
+  padding: 10px;
+  margin: 0;
+}
 .favoriteMoviesContainer h2 {
   font-size: 2rem;
   width: 100%;
